@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CI/CD and Django Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eleni-pan](https://github.com/eleni-pan)
+- 👨‍💻 All of my projects are available at [github](https://github.com/eleni-pan?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
